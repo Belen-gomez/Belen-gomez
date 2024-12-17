@@ -14,4 +14,4 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Belen-gomez&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Belen-gomez&theme=radical&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-gomez&layout=default&langs_count=10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-gomez&layout=defaul&langs_count=10&theme=radical)
