@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi there! 👋 I'm a Computer Engineering student based in Madrid, passionate about technology and eager to learn and grow. My primary focus is on the world of cybersecurity, where I love exploring vulnerabilities, improving systems, and tackling complex challenges.
+Hi there! 👋 I'm Belen, a Computer Engineering student based in Madrid, passionate about technology and eager to learn and grow. My primary focus is on the world of cybersecurity, where I love exploring vulnerabilities, improving systems, and tackling complex challenges.
 
 I enjoy working on practical projects that allow me to apply my knowledge and gain new skills, whether it’s building systems from scratch, migrating data across complex databases, or designing custom user interfaces. I have hands-on experience with tools like Metasploit, Kali Linux, and vulnerability assessment techniques, as well as programming in Java, HTML, and CSS.
 
