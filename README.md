@@ -14,7 +14,7 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
 
 
 <div style="margin: 0; padding: 0; width: 100%; box-sizing: border-box;">
-  <table style="margin: 0 auto; padding: 0; border-collapse: collapse; width: 100%;">
+  <table style="margin: 0 auto; padding: 0; border-collapse: collapse; width: 100%; table-layout: fixed;">
     <tr>
       <td width="50%" valign="top" style="padding: 5px;">
         <h3>📊 GitHub Stats :</h3>
