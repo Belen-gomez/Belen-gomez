@@ -29,12 +29,12 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
         <h3>🚀 Special Projects :</h3>
         <ul>
            <li>
-            <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank">📌 Proyecto De Criptografía</a>
-            <p>Proyecto en el que se utilizan técnicas criptográficas para cifrar de mensajes, autenticar de usuarios y mantener la integridad de la información</p>
-            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 Aplicacion de una tienda virtual</a>
-            <p>Aplicación con Javascript, HTML5 y CSS que simula un carrito de la compra interactivo</p>
-            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 Base de datos en MongoDB</a>
-            <p>Diseño de una base de datos en MongoDB y migración de datos</p>
+            <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank" style="text-decoration=none; font-weight=bold">📌 Cryptography Project</a>
+            <p>Project using cryptographic techniques to encrypt messages, authenticate users, and maintain data integrity.</p>
+            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 Virtual Store Application</a>
+            <p>Application built with JavaScript, HTML5, and CSS that simulates an interactive shopping cart.</p>
+            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 MongoDB Database</a>
+            <p>Design of a MongoDB database and data migration.</p>
           </li>
         </ul>
       </td>
