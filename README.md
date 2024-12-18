@@ -33,11 +33,11 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
             <p>Project using cryptographic techniques to encrypt messages, authenticate users, and maintain data integrity.</p>
           </li>
           <li>
-            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 Virtual Store Application</a>
+            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank" style="text-decoration: none !important; font-weight: bold;">📌 Virtual Store Application</a>
             <p>Application built with JavaScript, HTML5, and CSS that simulates an interactive shopping cart.</p>
           </li>
           <li>
-            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 MongoDB Database</a>
+            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank" style="text-decoration: none !important; font-weight: bold;">📌 MongoDB Database</a>
             <p>Design of a MongoDB database and data migration.</p>
           </li>
         </ul>
