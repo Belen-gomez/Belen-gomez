@@ -16,14 +16,14 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
 <div align="center">
   <table style="margin: 0 auto; padding: 0; border-collapse: collapse; width: 100%;">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="padding: 5px;">
         <h3>📊 GitHub Stats :</h3>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-gomez&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
         <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-gomez&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=20&exclude_repo=GRUPO13_Practica2" alt="Top Languages"/>
       </td>
       <!-- Sección Derecha -->
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="padding: 5px;">
         <h3>🚀 Special Projects :</h3>
         <ul>
         </ul>
