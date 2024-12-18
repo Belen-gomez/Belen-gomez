@@ -29,7 +29,7 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
         <h3>🚀 Special Projects :</h3>
         <ul>
            <li>
-            <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank" style="text-decoration=none; font-weight=bold">📌 Cryptography Project</a>
+            <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank" style="text-decoration:none; font-weight:bold;">📌 Cryptography Project</a>
             <p>Project using cryptographic techniques to encrypt messages, authenticate users, and maintain data integrity.</p>
             <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank">📌 Virtual Store Application</a>
             <p>Application built with JavaScript, HTML5, and CSS that simulates an interactive shopping cart.</p>
