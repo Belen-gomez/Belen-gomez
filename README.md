@@ -37,8 +37,8 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
             <p>Application built with JavaScript, HTML5, and CSS that simulates an interactive shopping cart.</p>
           </li>
           <li>
-            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank" style="text-decoration: none !important; font-weight: bold;">📌 MongoDB Database</a>
-            <p>Design of a MongoDB database and data migration.</p>
+            <a href="https://github.com/Belen-gomez/AplicacionCarritoCompra" target="_blank" style="text-decoration: none !important; font-weight: bold;">📌 Cassandra Database</a>
+            <p>Design of a Cassandra database and data migration.</p>
           </li>
         </ul>
       </td>
