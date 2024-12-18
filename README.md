@@ -21,7 +21,7 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
         <div style="text-align: center;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Belen-gomez&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-gomez&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=20&exclude_repo=GRUPO13_Practica2" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belen-gomez&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=25&exclude_repo=GRUPO13_Practica2" alt="Top Languages"/>
         </div>
       </td>
       <!-- Sección Derecha -->
