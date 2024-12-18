@@ -28,6 +28,9 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
       <td width="50%" valign="top" style="padding: 5px;">
         <h3>🚀 Special Projects :</h3>
         <ul>
+           <li>
+            <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank">📌 Proyecto De Criptografía</a>
+          </li>
         </ul>
       </td>
     </tr>
