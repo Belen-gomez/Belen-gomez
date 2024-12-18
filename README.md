@@ -30,6 +30,7 @@ My curiosity has also led me to explore areas such as artificial intelligence, d
         <ul>
            <li>
             <a href="https://github.com/Belen-gomez/AplicacionCriptografia" target="_blank">📌 Proyecto De Criptografía</a>
+            <p>Proyecto en el que se utilizan técnicas criptográficas para cifrar de mensajes, autenticar de usuarios y mantener la integridad de la información</p>
           </li>
         </ul>
       </td>
